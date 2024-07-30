@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 하계 모각코 목표 및 계획.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 하계 모각코 목표 및 계획.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 하계 모각코 목표 및 계획.md"
+                "file": "index.md"
               }
             }
           }
@@ -159,11 +159,48 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "floating": {
+    "id": "eadb705d6c49bd21",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e2bf18dd447c84d2",
+        "type": "window",
+        "children": [
+          {
+            "id": "58ccbfedd1e04864",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5255bd3adb21db8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 317,
+        "y": 316,
+        "width": 902,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e5255bd3adb21db8",
   "lastOpenFiles": [
+    "2024 하계 모각코 목표 및 계획.md",
     "index.md",
     "docs/2024-하계-모각코-목표-및-계획.html",
-    "2024 하계 모각코 목표 및 계획.md",
     "Tags",
     "test.md",
     "README.md",
