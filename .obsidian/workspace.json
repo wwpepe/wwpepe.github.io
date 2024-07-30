@@ -11,8 +11,12 @@
             "id": "e85638fcd2d3f4e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024 하계 모각코 목표 및 계획.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 하계 모각코 목표 및 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 하계 모각코 목표 및 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 하계 모각코 목표 및 계획.md"
+              }
             }
           }
         ],
@@ -154,6 +162,8 @@
   "active": "e85638fcd2d3f4e4",
   "lastOpenFiles": [
     "index.md",
+    "docs/2024-하계-모각코-목표-및-계획.html",
+    "2024 하계 모각코 목표 및 계획.md",
     "Tags",
     "test.md",
     "README.md",
@@ -167,7 +177,6 @@
     "docs/lib/styles",
     "docs/lib/scripts/graph-data.js",
     "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
