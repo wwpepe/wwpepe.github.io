@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 하계 모각코 목표 및 계획.md",
+                "file": "2024 하계 모각코 1주차 계획.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2024 하계 모각코 1주차 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2024 하계 모각코 1주차 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2024 하계 모각코 1주차 계획.md"
               }
             }
           }
@@ -164,20 +164,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "e2bf18dd447c84d2",
+        "id": "a908e08f44dbeeb9",
         "type": "window",
         "children": [
           {
-            "id": "58ccbfedd1e04864",
+            "id": "1c45cd63e877c918",
             "type": "tabs",
             "children": [
               {
-                "id": "e5255bd3adb21db8",
+                "id": "454fa5943575ab18",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "index.md",
+                    "file": "2024 하계 모각코 1주차 계획.md",
                     "mode": "source",
                     "source": false
                   }
@@ -196,8 +196,9 @@
       }
     ]
   },
-  "active": "e5255bd3adb21db8",
+  "active": "454fa5943575ab18",
   "lastOpenFiles": [
+    "2024 하계 모각코 1주차 계획.md",
     "2024 하계 모각코 목표 및 계획.md",
     "index.md",
     "docs/2024-하계-모각코-목표-및-계획.html",
