@@ -1,8 +1,39 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[wwpepe]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>wwpepe</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 03 Aug 2024 04:55:17 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 03 Aug 2024 04:55:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[[2024 하계 모각코] 1주차 결과]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[wwpepe]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>wwpepe</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 25 Aug 2024 06:26:48 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 25 Aug 2024 06:26:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[[2024 하계 모각코] 1주차 결과]]></title><description><![CDATA[ 
  <br>목표 : NumPy, OpenCV 복습<br>
 일시 : 2024.07.10<br>
-장소 : 본인 집<br>내용 :]]></description><link>[2024-하계-모각코]-1주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 1주차 결과.md</guid><pubDate>Sat, 03 Aug 2024 04:54:46 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 1주차 계획]]></title><description><![CDATA[ 
+장소 : 본인 집<br>내용 : <img alt="Pasted image 20240825150611.png" src="pasted-image-20240825150611.png">]]></description><link>[2024-하계-모각코]-1주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 1주차 결과.md</guid><pubDate>Sun, 25 Aug 2024 06:06:13 GMT</pubDate><enclosure url="pasted-image-20240825150611.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="pasted-image-20240825150611.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[[2024 하계 모각코] 2주차 결과]]></title><description><![CDATA[ 
+ <br>목표 : 워드벡터 복습<br>
+일시 : 2024.07.10<br>
+장소 : 본인 집<br>내용 :<img alt="Pasted image 20240825150817.png" src="pasted-image-20240825150817.png"><img alt="Pasted image 20240825150900.png" src="pasted-image-20240825150900.png">]]></description><link>[2024-하계-모각코]-2주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 2주차 결과.md</guid><pubDate>Sun, 25 Aug 2024 06:09:00 GMT</pubDate><enclosure url="pasted-image-20240825150817.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="pasted-image-20240825150817.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[[2024 하계 모각코] 2주차 계획]]></title><description><![CDATA[ 
+ <br>목표 : 워드벡터 복습<br>
+일시 : 2024.07.17<br>
+장소 : 본인 집]]></description><link>[2024-하계-모각코]-2주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 2주차 계획.md</guid><pubDate>Sun, 25 Aug 2024 06:06:20 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 3주차 결과]]></title><description><![CDATA[ 
+ <br>목표 : MLP 복습<br>
+일시 : 2024.07.24<br>
+장소 : 본인 집<br>내용 : <img alt="Pasted image 20240825151541.png" src="pasted-image-20240825151541.png">]]></description><link>[2024-하계-모각코]-3주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 3주차 결과.md</guid><pubDate>Sun, 25 Aug 2024 06:15:42 GMT</pubDate><enclosure url="pasted-image-20240825151541.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="pasted-image-20240825151541.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[[2024 하계 모각코] 3주차 계획]]></title><description><![CDATA[ 
+ <br>목표 : MLP 복습<br>
+일시 : 2024.07.24<br>
+장소 : 본인 집]]></description><link>[2024-하계-모각코]-3주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 3주차 계획.md</guid><pubDate>Sun, 25 Aug 2024 06:09:17 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 4주차 결과]]></title><description><![CDATA[ 
+ <br>목표 : RNN 복습<br>
+일시 : 2024.07.31<br>
+장소 : 본인 집<br>내용 : <img alt="Pasted image 20240825151336.png" src="pasted-image-20240825151336.png"><img alt="Pasted image 20240825151420.png" src="pasted-image-20240825151420.png">]]></description><link>[2024-하계-모각코]-4주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 4주차 결과.md</guid><pubDate>Sun, 25 Aug 2024 06:14:22 GMT</pubDate><enclosure url="pasted-image-20240825151336.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="pasted-image-20240825151336.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[[2024 하계 모각코] 4주차 계획]]></title><description><![CDATA[ 
+ <br>목표 : RNN 복습<br>
+일시 : 2024.07.31<br>
+장소 : 본인 집]]></description><link>[2024-하계-모각코]-4주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 4주차 계획.md</guid><pubDate>Sun, 25 Aug 2024 06:10:16 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 5주차 결과]]></title><description><![CDATA[ 
+ <br>목표 : LLN 복습<br>
+일시 : 2024.08.07<br>
+장소 : 본인 집<br>내용 : <img alt="Pasted image 20240825152322.png" src="pasted-image-20240825152322.png"><img alt="Pasted image 20240825152353.png" src="pasted-image-20240825152353.png">]]></description><link>[2024-하계-모각코]-5주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 5주차 결과.md</guid><pubDate>Sun, 25 Aug 2024 06:23:55 GMT</pubDate><enclosure url="pasted-image-20240825152322.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="pasted-image-20240825152322.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[[2024 하계 모각코] 5주차 계획]]></title><description><![CDATA[ 
+ <br>목표 : LLN 복습<br>
+일시 : 2024.08.07<br>
+장소 : 본인 집]]></description><link>[2024-하계-모각코]-5주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 5주차 계획.md</guid><pubDate>Sun, 25 Aug 2024 06:19:12 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 6주차 결과]]></title><description><![CDATA[ 
+ <br>목표 : 강화학습 복습<br>
+일시 : 2024.08.14<br>
+장소 : 본인 집<br>내용 :<a data-href="Pasted image 20240825152520.png" href="pasted-image-20240825152520.png" class="internal-link" target="_self" rel="noopener">Pasted image 20240825152520.png</a><img alt="Pasted image 20240825152630.png" src="pasted-image-20240825152630.png">]]></description><link>[2024-하계-모각코]-6주차-결과.html</link><guid isPermaLink="false">[2024 하계 모각코] 6주차 결과.md</guid><pubDate>Sun, 25 Aug 2024 06:26:32 GMT</pubDate><enclosure url="pasted-image-20240825152630.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="pasted-image-20240825152630.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[[2024 하계 모각코] 6주차 계획]]></title><description><![CDATA[ 
+ <br>목표 : 강화학습 복습<br>
+일시 : 2024.08.14<br>
+장소 : 본인 집]]></description><link>[2024-하계-모각코]-6주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 6주차 계획.md</guid><pubDate>Sun, 25 Aug 2024 06:11:15 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 목표 및 계획]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br><br><br>]]></description><link>[2024-하계-모각코]-목표-및-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 목표 및 계획.md</guid><pubDate>Sun, 25 Aug 2024 06:19:17 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 30 Jul 2024 17:40:58 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 1주차 계획]]></title><description><![CDATA[ 
  <br>목표 : Numpy, OpenCV 복습<br>
 일시 : 2024.07.10<br>
-장소 : 본인 집]]></description><link>[2024-하계-모각코]-1주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 1주차 계획.md</guid><pubDate>Sat, 03 Aug 2024 04:52:22 GMT</pubDate></item><item><title><![CDATA[[2024 하계 모각코] 목표 및 계획]]></title><description><![CDATA[ 
- <br><br><br><br><br><br><br><br><br>]]></description><link>[2024-하계-모각코]-목표-및-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 목표 및 계획.md</guid><pubDate>Tue, 30 Jul 2024 17:54:29 GMT</pubDate></item></channel></rss>
+장소 : 본인 집]]></description><link>[2024-하계-모각코]-1주차-계획.html</link><guid isPermaLink="false">[2024 하계 모각코] 1주차 계획.md</guid><pubDate>Sat, 03 Aug 2024 04:52:22 GMT</pubDate></item></channel></rss>
